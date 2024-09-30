@@ -7,7 +7,8 @@ The Market Research & Use Case Generation Agent is an AI-powered tool designed t
 Key technologies used in this project include CrewAI, LangChain, Streamlit, Python, and Google Gemini Flash 1.5 LLM.
 
 ## Demo of the app
-A demo showcasing the Market Research & Use Case Generation Agent in action can be viewed at the link below:
+A demo showcasing the Market Research & Use Case Generation Agent in action can be viewed at the link below:   
+https://multi-agent-market-research-system.onrender.com/
 
 ## Installation
 
