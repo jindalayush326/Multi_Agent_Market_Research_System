@@ -74,7 +74,7 @@ if submitted:
                 agents=[research_agent, use_case_generation_agent, resource_collection_agent, report_generation_agent],
                 tasks=[research_analysis, use_case_analysis, dataset_collection, report_generation],
                 process=Process.sequential,
-                verbose=2
+                verbose=True
             )
             result = crew.kickoff(inputs={"company": company, "industry": industry})
 
