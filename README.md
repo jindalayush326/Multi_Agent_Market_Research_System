@@ -10,6 +10,11 @@ Key technologies used in this project include CrewAI, LangChain, Streamlit, Pyth
 A demo showcasing the Market Research & Use Case Generation Agent in action can be viewed at the link below:   
 https://multi-agent-market-research-system.onrender.com/
 
+<img src="https://github.com/jindalayush326/Multi_Agent_Market_Research_System/blob/main/image/Screenshot%20(5606).png"/>
+<img src="https://github.com/jindalayush326/Multi_Agent_Market_Research_System/blob/main/image/Screenshot%20(5607).png"/>
+<img src="https://github.com/jindalayush326/Multi_Agent_Market_Research_System/blob/main/image/Screenshot%20(5608).png"/>
+<img src="https://github.com/jindalayush326/Multi_Agent_Market_Research_System/blob/main/image/Screenshot%20(5609).png"/>
+
 ## Installation
 
 To run this project, follow these steps:
